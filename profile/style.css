@@ -1,0 +1,23 @@
+.container {
+    background-color: black;
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.button {
+    background-color: blue;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    width: 350px;
+}
