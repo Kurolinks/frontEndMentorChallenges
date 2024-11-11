@@ -1,0 +1,23 @@
+.container {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.box {
+    background-color: hsl(216, 50%, 16%);
+}
+
+h1 {
+    color: white;
+}
+
+.paragraph {
+    color: hsl(215, 32%, 27%);
+}
+
+.amount-ethereum {
+    color: hsl(215, 51%, 70%);
+}
+
+.duration {
+    color: hsl(215, 32%, 27%);;
+}
