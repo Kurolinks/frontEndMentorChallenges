@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: hsl(204, 43%, 93%);
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    margin: auto;
+}
+
+.top-container {
+    background-color: white;
+}
+
+.join {
+    color: hsl(179, 62%, 43%);
+}
+
+.duration {
+    color: hsl(71, 73%, 54%);
+}
+
+.bottom-container {
+    display: flex;
+}
+
+.bottom-left-container {
+    background-color: hsl(179, 62%, 43%);
+    border-right: 1px solid black;
+    color: white;
+}
+
+.sign-up {
+    background-color: hsl(71, 73%, 54%);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+
+.bottom-right-container {
+    background-color: hsl(179, 62%, 43%);
+    color: white;
+}
